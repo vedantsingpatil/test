@@ -1,0 +1,43 @@
+{
+  "user": {
+    "id": 10234,
+    "name": {
+      "first": "Vedant",
+      "last": "Patil"
+    },
+    "username": "vedant.patil",
+    "email": "vedant.patil@example.com",
+    "age": 27,
+    "isVerified": true,
+    "address": {
+      "street": "12 MG Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "postalCode": "411001",
+      "country": "India"
+    },
+    "preferences": {
+      "language": "en",
+      "timezone": "Asia/Kolkata",
+      "newsletterSubscribed": false
+    },
+    "contactNumbers": [
+      "+91-9876543210",
+      "+91-9023456789"
+    ],
+    "recentActivity": [
+      {
+        "activity": "login",
+        "timestamp": "2025-06-15T10:30:00Z",
+        "ip": "103.21.76.50"
+      },
+      {
+        "activity": "updated_profile",
+        "timestamp": "2025-06-14T17:45:00Z",
+        "ip": "103.21.76.50"
+      }
+    ],
+    "profilePicture": null,
+    "accountCreated": "2022-03-21T08:15:00Z"
+  }
+}
